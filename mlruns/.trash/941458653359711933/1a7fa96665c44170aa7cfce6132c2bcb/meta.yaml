@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/AI/Celsia/mlruns/941458653359711933/1a7fa96665c44170aa7cfce6132c2bcb/artifacts
+deleted_time: 1692571637344
+end_time: 1692564847466
+entry_point_name: ''
+experiment_id: '941458653359711933'
+lifecycle_stage: deleted
+run_id: 1a7fa96665c44170aa7cfce6132c2bcb
+run_name: Price prediction_20-08-23
+run_uuid: 1a7fa96665c44170aa7cfce6132c2bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692564843656
+status: 3
+tags: []
+user_id: pc
