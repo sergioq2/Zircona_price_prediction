@@ -35,7 +35,6 @@ def predict(data: DiamondData):
         # Make a prediction using the imported 'prediction' function
         prediction_result = prediction(data)
         prediction_result = float(prediction_result)
-        
         # Return the prediction result
         return {"prediction": prediction_result}
     except Exception as e:
